@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/liverpoolFC-dashboard/static/css/main.cafe724b.css",
+    "main.js": "/liverpoolFC-dashboard/static/js/main.1ddb9bbf.js",
+    "static/js/787.12ce8e31.chunk.js": "/liverpoolFC-dashboard/static/js/787.12ce8e31.chunk.js",
+    "index.html": "/liverpoolFC-dashboard/index.html",
+    "main.cafe724b.css.map": "/liverpoolFC-dashboard/static/css/main.cafe724b.css.map",
+    "main.1ddb9bbf.js.map": "/liverpoolFC-dashboard/static/js/main.1ddb9bbf.js.map",
+    "787.12ce8e31.chunk.js.map": "/liverpoolFC-dashboard/static/js/787.12ce8e31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafe724b.css",
+    "static/js/main.1ddb9bbf.js"
+  ]
+}
